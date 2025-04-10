@@ -12,3 +12,4 @@ public interface EmpInfoRepository extends JpaRepository<EmpInfo, Integer> {
     boolean existsByEmail(String email);
     boolean existsByEmployeeId(String employeeId);
 }
+//emon

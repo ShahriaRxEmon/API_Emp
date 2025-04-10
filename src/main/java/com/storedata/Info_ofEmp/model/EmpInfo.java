@@ -127,3 +127,4 @@ public class EmpInfo {
     public String getEmbeddingStr() { return embeddingStr; }
     public void setEmbeddingStr(String embeddingStr) { this.embeddingStr = embeddingStr; }
 }
+//emon
